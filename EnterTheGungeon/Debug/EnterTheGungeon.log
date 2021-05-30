@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\malloc.h(120): note: '_malloca'의 이전 정의를 참조하십시오.
+  UiMgr.cpp
+  Stage.cpp
+  SoundMgr.cpp
+  ShotgunMan.cpp
+  ShotBullet.cpp
+  ScrollMgr.cpp
+  SceneMgr.cpp
+  Scene.cpp
+  Player.cpp
+  ObjMgr.cpp
+  Obj.cpp
+  NomalGun.cpp
+  MyMenu.cpp
+  MyFont.cpp
+  MyBitMap.cpp
+  Mouse.cpp
+  MonsterBullet.cpp
+  Monster.cpp
+  MainGame.cpp
+  Logo.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  KeyMgr.cpp
+  Gunnet.cpp
+  EnterTheGungeon.cpp
+  Ending.cpp
+  Door.cpp
+  ClineBullet.cpp
+  Bullet.cpp
+  Break_Check.cpp
+  BossBullet.cpp
+  Boss.cpp
+  BmpMgr.cpp
+  AKBullet.cpp
+  AK47.cpp
+  코드를 생성하고 있습니다...
+  EnterTheGungeon.vcxproj -> C:\Users\pig39\OneDrive\바탕 화면\쥬신아카데미\EnterTheGungeon\Debug\EnterTheGungeon.exe
+  EnterTheGungeon.vcxproj -> C:\Users\pig39\OneDrive\바탕 화면\쥬신아카데미\EnterTheGungeon\Debug\EnterTheGungeon.pdb (Full PDB)

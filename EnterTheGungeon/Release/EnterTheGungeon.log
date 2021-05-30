@@ -1,0 +1,40 @@
+﻿  stdafx.cpp
+  AK47.cpp
+  AKBullet.cpp
+  BmpMgr.cpp
+  Boss.cpp
+  BossBullet.cpp
+  Break_Check.cpp
+  Bullet.cpp
+  ClineBullet.cpp
+  Door.cpp
+  EnterTheGungeon.cpp
+  Gunnet.cpp
+  KeyMgr.cpp
+  Logo.cpp
+  MainGame.cpp
+  Monster.cpp
+  MonsterBullet.cpp
+  Mouse.cpp
+  MyBitMap.cpp
+  MyFont.cpp
+  MyMenu.cpp
+  컴파일하고 있습니다...
+  NomalGun.cpp
+  Obj.cpp
+  ObjMgr.cpp
+  Player.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+  ShotBullet.cpp
+  ShotgunMan.cpp
+  Stage.cpp
+  UiMgr.cpp
+  코드를 생성하고 있습니다.
+  191 of 577 functions (33.1%) were compiled, the rest were copied from previous compilation.
+    75 functions were new in current compilation
+    65 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  EnterTheGungeon.vcxproj -> C:\Users\pig39\OneDrive\바탕 화면\EnterTheGungeon\Release\EnterTheGungeon.exe
+  EnterTheGungeon.vcxproj -> C:\Users\pig39\OneDrive\바탕 화면\EnterTheGungeon\Release\EnterTheGungeon.pdb (Full PDB)
